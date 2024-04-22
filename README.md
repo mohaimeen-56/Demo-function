@@ -1,3 +1,3 @@
 # Demo-function
-lets try github\n
+lets try github<br>
 Author - Mohaimeen Islam Pial
